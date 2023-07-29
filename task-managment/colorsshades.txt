@@ -1,0 +1,18 @@
+dark turquiose '#388087'
+'#6FB3B8'
+'#BADFE7'
+'#C2EDCE'
+'#F6F6F2'
+
+
+'#E8B38C'
+'#BB8644'
+'#909E84' 
+'#75654C'
+'#E3D477'
+
+
+
+#b8860b mustard
+#daa520 light gold
+#dcdcdc grey
